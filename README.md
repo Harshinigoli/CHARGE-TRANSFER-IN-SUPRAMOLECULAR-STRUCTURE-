@@ -4,7 +4,9 @@ The combination of an electron deficient and an electron rich moiety with adequa
  Hence here in our study we choose FKP (Fmoc-L-Lysine Pyrene) which is an electron rich species and TNF (2, 4, 7-trinitro-9-ﬂuorenone) which is an electron deficient moiety. Though DPP was an electron deficient moiety, it was not able to intercalate between the pyrene rings of FKP due to structural incompatibility and lack of chemical complementarities. TNF which has been observed to exhibit compatibility with FKP and has aligned itself with the TNF, showed self assembly when mixed in equi molar ratio. The self assembly of FKP with TNF has already been reported in ambidextrous gel state. We now, reported the supra-molecular self assembly of the same in film coated form which has the further applications in the above mentioned fields. Organic electronic materials offer a promising route toward low-cost, large-area devices and are now commonly used in the form of organic light-emitting diode displays.
 Methods and Methodology
 Fourier transform infrared (FTIR), High-Resolution Scanning Electron Microscopy, Compound Microscopy
+
 RESULTS:
+
 <img width="486" alt="Screenshot (70)" src="https://github.com/Harshinigoli/CHARGE-TRANSFER-IN-SUPRAMOLECULAR-STRUCTURE-/assets/161805523/df3023f1-5346-4909-9edc-17b6ba346a58">
 <img width="470" alt="Screenshot (71)" src="https://github.com/Harshinigoli/CHARGE-TRANSFER-IN-SUPRAMOLECULAR-STRUCTURE-/assets/161805523/567804df-237a-424b-8af6-f15bc95a44c7">
 <img width="487" alt="Screenshot (72)" src="https://github.com/Harshinigoli/CHARGE-TRANSFER-IN-SUPRAMOLECULAR-STRUCTURE-/assets/161805523/e3c90a1c-96bf-49f6-89af-a638f4861fa6">
@@ -12,5 +14,7 @@ RESULTS:
 <img width="483" alt="Screenshot (74)" src="https://github.com/Harshinigoli/CHARGE-TRANSFER-IN-SUPRAMOLECULAR-STRUCTURE-/assets/161805523/e7f63031-a062-4639-b661-1471b47b1954">
 <img width="487" alt="Screenshot (75)" src="https://github.com/Harshinigoli/CHARGE-TRANSFER-IN-SUPRAMOLECULAR-STRUCTURE-/assets/161805523/aa74e4b2-6d93-40aa-9af5-4d75b2c51cea">
 <img width="475" alt="Screenshot (76)" src="https://github.com/Harshinigoli/CHARGE-TRANSFER-IN-SUPRAMOLECULAR-STRUCTURE-/assets/161805523/4bcab535-122a-4188-b88a-0688ddf3fe38">
+
 DISCUSSION
+
 The brown color in KFP+TNF was observed because of the charge transfer. When compared to only FKP the fluorescence in FKP+TNF was very much reduced because of the interference of TNF in between the layers of FKP, leading to inhibition of piling up of pyrene rings and thus interrupting the fluorescence emission of FKP. Where as in FKP+DPP the change in color was visually not observed. This primary observation indicates the possibility of the absence of charge transfer. The compound microscopic and SEM images evidently show the physical association between the FKP and TNF molecules. Whereas the interaction of FKP and DPP was not observed as we were able to distinguish the FKP and DPP molecules.
